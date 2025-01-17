@@ -1,1 +1,1 @@
-
+ j'ai développé une application de gestion de quiz permettant aux enseignants de créer, modifier, visualiser ou supprimer des quiz sous forme de QCM, et d'analyser les performances des étudiants. Les étudiants peuvent s'identifier, répondre aux quiz selon leurs modules, consulter leurs scores et accéder aux corrections des tests déjà passés.
